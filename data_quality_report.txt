@@ -1,0 +1,9 @@
+📊 Data Quality Report
+Total Messages Processed: 146
+Mmsi Issues: 0
+Timestamp Issues: 0
+Coordinates Issues: 0
+Json Issues: 0
+Decode Issues: 0
+Missing_fields Issues: 0
+Other Issues: 0

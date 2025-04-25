@@ -1,0 +1,19 @@
+# Core dependencies
+searoute-py==0.1.5      # Maritime route generation
+pyais==2.3.0            # AIS message encoding/decoding
+geopy==2.3.0            # Distance and bearing calculations
+websockets==11.0.3      # WebSocket server/client
+sqlalchemy==2.0.23      # Database ORM and management
+shapely==2.0.1          # Geometric operations (LineString, points)
+python-dotenv==1.0.0    # Environment variable management (optional)
+
+
+Key Libraries:
+
+searoute-py: Generates maritime routes between ports.
+pyais: Encodes/decodes AIS messages (critical for AIVDM sentences).
+geopy: Computes distances and bearings between coordinates.
+websockets: Powers the real-time WebSocket streaming.
+sqlalchemy: Manages database connections and schema.
+
+
